@@ -12,4 +12,4 @@
 
 | Solution | Date |
 | ------- | ----- |
-| head->rev->end | 7/5 |
+| Head->Rev->End | 7/5 |
