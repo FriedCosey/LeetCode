@@ -20,3 +20,10 @@
 | ------- | ----- |
 | BackTracking | 7/7 |
 | Dfs | 7/7 |
+
+### 46. Permutations
+
+| Solution | Date |
+| ------- | ----- |
+| BackTracking | 7/7 |
+| Dfs |  |
