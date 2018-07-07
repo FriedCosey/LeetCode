@@ -21,7 +21,7 @@
 | BackTracking | 7/7 |
 | Dfs | 7/7 |
 
-### 46. Permutations
+### 47. Permutations II
 
 | Solution | Date |
 | ------- | ----- |
