@@ -13,3 +13,10 @@
 | Solution | Date |
 | ------- | ----- |
 | Head->Rev->End | 7/5 |
+
+### 46. Permutations
+
+| Solution | Date |
+| ------- | ----- |
+| BackTracking | 7/7 |
+| Dfs | 7/7 |
