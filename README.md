@@ -27,3 +27,10 @@
 | ------- | ----- |
 | BackTracking | 7/7 |
 | Dfs |  |
+
+### 28. Implement strStr()
+
+| Solution | Date |
+| ------- | ----- |
+| BruteForce | 7/8 |
+| Kmp |  |
