@@ -34,3 +34,9 @@
 | ------- | ----- |
 | BruteForce | 7/8 |
 | Kmp |  |
+
+### 39. Combination Sum
+
+| Solution | Date |
+| ------- | ----- |
+| Dfs | 7/10 |
