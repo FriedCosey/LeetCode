@@ -32,7 +32,7 @@
 
 | Solution | Date |
 | ------- | ----- |
-| BruteForce | 7/8 |
+| BruteForce | 7/9 |
 | Kmp |  |
 
 ### 39. Combination Sum
