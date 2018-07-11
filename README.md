@@ -46,3 +46,9 @@
 | Solution | Date |
 | ------- | ----- |
 | Two Pointers | 7/11 |
+
+### 48. Rotate Image
+
+| Solution | Date |
+| ------- | ----- |
+| Sym->UpDown | 7/12 |
