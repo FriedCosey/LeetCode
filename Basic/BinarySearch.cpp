@@ -1,4 +1,5 @@
 // Avoid Duplicate
+// https://leetcode.com/problems/search-insert-position/description/
 #include <iostream>
 #include <vector>
 using namespace std;
