@@ -40,3 +40,9 @@
 | Solution | Date |
 | ------- | ----- |
 | Dfs | 7/10 |
+
+### 16. 3Sum Closest
+
+| Solution | Date |
+| ------- | ----- |
+| Two Pointers | 7/11 |
