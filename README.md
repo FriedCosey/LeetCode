@@ -52,3 +52,9 @@
 | Solution | Date |
 | ------- | ----- |
 | Sym->UpDown | 7/12 |
+
+# 17. Letter Combinations of a Phone Number
+
+| Solution | Date |
+| ------- | ----- |
+| Dfs | 7/12 |
