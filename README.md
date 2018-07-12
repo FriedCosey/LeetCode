@@ -59,3 +59,9 @@
 | ------- | ----- |
 | Dfs | 7/12 |
 | Bfs | |
+
+### 38. Count and Say
+
+| Solution | Date |
+| ------- | ----- |
+| Brute Force | 7/12 |
