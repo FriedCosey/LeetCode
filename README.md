@@ -53,7 +53,7 @@
 | ------- | ----- |
 | Sym->UpDown | 7/12 |
 
-# 17. Letter Combinations of a Phone Number
+### 17. Letter Combinations of a Phone Number
 
 | Solution | Date |
 | ------- | ----- |
