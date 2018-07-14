@@ -1,4 +1,4 @@
-### 5. Longest Palindromic Substring    
+#### 5. Longest Palindromic Substring    
 ```(Reference: https://leetcode.com/problems/longest-palindromic-substring/solution/)```
 
 | Solution | Date |
@@ -8,65 +8,66 @@
 | Dynamic Programming |  |
 | Expand Around Center |  |
 
-### 92. Reverse Linked List II
+#### 92. Reverse Linked List II
 
 | Solution | Date |
 | ------- | ----- |
 | Head->Rev->End | 7/5 |
 
-### 46. Permutations
+#### 46. Permutations
 
 | Solution | Date |
 | ------- | ----- |
 | BackTracking | 7/7 |
 | Dfs | 7/7 |
 
-### 47. Permutations II
+#### 47. Permutations II
 
 | Solution | Date |
 | ------- | ----- |
 | BackTracking | 7/7 |
 | Dfs |  |
 
-### 28. Implement strStr()
+#### 28. Implement strStr()
 
 | Solution | Date |
 | ------- | ----- |
 | BruteForce | 7/9 |
 | Kmp |  |
 
-### 39. Combination Sum
+#### 39. Combination Sum
 
 | Solution | Date |
 | ------- | ----- |
 | Dfs | 7/10 |
 
-### 16. 3Sum Closest
+#### 16. 3Sum Closest
 
 | Solution | Date |
 | ------- | ----- |
 | Two Pointers | 7/11 |
 
-### 48. Rotate Image
+#### 48. Rotate Image
 
 | Solution | Date |
 | ------- | ----- |
 | Sym->UpDown | 7/12 |
 
-### 17. Letter Combinations of a Phone Number
+#### 17. Letter Combinations of a Phone Number
 
 | Solution | Date |
 | ------- | ----- |
 | Dfs | 7/12 |
 | Bfs | |
 
-### 38. Count and Say
+#### 38. Count and Say
 
 | Solution | Date |
 | ------- | ----- |
 | Brute Force | 7/12 |
 
-### 22. Generate Parentheses
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+#### 22. Generate Parentheses
 
 | Solution | Date |
 | ------- | ----- |
