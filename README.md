@@ -77,4 +77,5 @@
 | Solution | Date |
 | ------- | ----- |
 | BackTracking  | 7/15 |
-
+| Closure Number | |
+| Dynamic Programming | |
