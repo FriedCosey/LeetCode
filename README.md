@@ -66,7 +66,7 @@
 | ------- | ----- |
 | Brute Force | 7/12 |
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15` #### 22. Generate Parentheses
+#### 22. Generate Parentheses
 
 | Solution | Date |
 | ------- | ----- |
