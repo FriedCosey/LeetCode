@@ -1,5 +1,5 @@
 ### 5. Longest Palindromic Substring    
-(https://leetcode.com/problems/longest-palindromic-substring/solution/)
+(Reference: https://leetcode.com/problems/longest-palindromic-substring/solution/)
 
 | Solution | Date |
 | ------- | ----- |
@@ -65,3 +65,15 @@
 | Solution | Date |
 | ------- | ----- |
 | Brute Force | 7/12 |
+
+### 22. Generate Parentheses
+
+| Solution | Date |
+| ------- | ----- |
+| Dfs | 7/15 |
+
+(Other Solutions, Reference: https://leetcode.com/problems/generate-parentheses/solution/)
+| Solution | Date |
+| ------- | ----- |
+| BackTracking  | 7/15 |
+
