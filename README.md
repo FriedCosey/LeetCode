@@ -79,3 +79,9 @@
 | BackTracking  | 7/15 |
 | Closure Number | |
 | Dynamic Programming | |
+
+#### 8. String to Integer (atoi)
+
+| Solution | Date |
+| ------- | ----- |
+|  | 7/18 |
