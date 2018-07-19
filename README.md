@@ -85,3 +85,10 @@
 | Solution | Date |
 | ------- | ----- |
 |  | 7/18 |
+
+#### 24. Swap Nodes in Pairs
+
+
+| Solution | Date |
+| ------- | ----- |
+| Iterative  | 7/19|
