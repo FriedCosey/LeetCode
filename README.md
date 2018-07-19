@@ -99,3 +99,9 @@
 | Solution | Date |
 | ------- | ----- |
 | pointer to pointer  | 7/19 |
+
+```(Other Solutions, Reference: APAS)```
+| Solution | Date |
+| ------- | ----- |
+| swap function (IterII)  | 7/19 |
+| break swap (IterIII) | 7/19 |
