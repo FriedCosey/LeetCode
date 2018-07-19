@@ -9,13 +9,13 @@
 class Solution {
 public:
     ListNode* swapPairs(ListNode* head) {
-        ListNode *pre, *start, *cur;
+        ListNode *tmp, *pre, *start, *cur;
         start = new ListNode(0); 
         if(head == NULL || head->next == NULL)
             return head;
         pre = head, cur = head->next, start->next = cur;
         while(cur && pre){
-            ListNode *tmp = cur->next;
+            tmp = cur->next;
             cur->next = pre;
             if(tmp && tmp->next) // even elements left
                 cur = tmp->next, pre->next = tmp->next, pre = tmp;
