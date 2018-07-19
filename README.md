@@ -93,3 +93,9 @@
 | ------- | ----- |
 | Iterative  | 7/19 |
 | Recursive  | 7/19 |
+
+```(Other Solutions, Reference: https://leetcode.com/problems/swap-nodes-in-pairs/discuss/11019/7-8-lines-C++-Python-Ruby?page=2)```
+
+| Solution | Date |
+| ------- | ----- |
+| pointer to pointer  | 7/19 |
