@@ -11,10 +11,8 @@ public:
     ListNode* swapPairs(ListNode* head) {
         ListNode *pre, *cur;
         pre = head;
-        if(head == NULL)
+        if(head == NULL || head->next == NULL)
             return pre;
-        else if(head->next == NULL)
-            return head;
         ListNode *tmp = head->next->next;
         cur = head->next;
         cur->next = pre;
