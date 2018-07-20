@@ -110,5 +110,10 @@
 
 | Solution | Date |
 | ------- | ----- |
-| LeftShift  | 7/20 |
-| LeftShift (Compare Outside) | 7/20 |
+| LeftShift | 7/20 |
+
+```(Other Solutions, Reference: https://leetcode.com/problems/divide-two-integers/discuss/13407/Detailed-Explained-8ms-C++-solution)```
+
+| Solution | Date |
+| ------- | ----- |
+| Use Remainder | 7/21 |
