@@ -88,7 +88,6 @@
 
 #### 24. Swap Nodes in Pairs
 
-
 | Solution | Date |
 | ------- | ----- |
 | Iterative  | 7/19 |
@@ -105,3 +104,10 @@
 | ------- | ----- |
 | swap function (IterII)  | 7/19 |
 | break swap (IterIII) | 7/19 |
+
+#### 29. Divide Two Integers
+
+| Solution | Date |
+| ------- | ----- |
+| LeftShift  | 7/20 |
+| LeftShift (Compare Outside) | 7/20 |
