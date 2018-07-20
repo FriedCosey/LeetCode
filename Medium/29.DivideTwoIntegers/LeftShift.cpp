@@ -14,7 +14,7 @@ public:
         while(divid > tmp){
             counter = counter << 1;
             tmp = tmp << 1;
-            if(divid > tmp && tmp >= (INT_MAX >> 1)){ // OverFlow
+            /*if(divid > tmp && tmp >= (INT_MAX >> 1)){ // OverFlow
                 long int diff = divid - tmp;
                 while((diff -= divis) >= 0){
                     counter++;
@@ -25,7 +25,7 @@ public:
                 if(sign)
                     counter -= counter + counter;
                 return counter;
-            }
+            }*/
                 
         }
         //cout << tmp << endl;
@@ -33,6 +33,8 @@ public:
             counter--;
             tmp -= divis;
         }
+        if(counter >= INT_MAX)
+            return sign ? INT_MIN : INT_MAX;
         // check sign
         if(sign)
             counter -= counter + counter;
