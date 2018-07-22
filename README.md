@@ -117,3 +117,9 @@
 | Solution | Date |
 | ------- | ----- |
 | Use Remainder | 7/21 |
+
+#### 33. Search in Rotated Sorted Array
+
+| Solution | Date |
+| ------- | ----- |
+| Revise Binary Search | 7/21 |
