@@ -123,3 +123,9 @@
 | Solution | Date |
 | ------- | ----- |
 | Revise Binary Search | 7/21 |
+
+```(Other Solutions, Reference: https://leetcode.com/problems/search-in-rotated-sorted-array/discuss/14425/Concise-O(log-N)-Binary-search-solution)```
+
+| Solution | Date |
+| ------- | ----- |
+| Find Smallest First | 7/21 |

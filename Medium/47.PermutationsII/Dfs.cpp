@@ -1,5 +1,5 @@
 // Still Working
-
+// 7/22: Note, check vector size and compare if already exists
 class Solution {
 public:
     vector<vector<int>> permute(vector<int>& nums) {
