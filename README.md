@@ -135,3 +135,10 @@
 | Solution | Date |
 | ------- | ----- |
 | Infinity | 7/24 |
+
+#### 153. Find Minimum in Rotated Sorted Array
+
+| Solution | Date |
+| ------- | ----- |
+| MidHigh | 7/24 |
+| MidLow | |
