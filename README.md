@@ -122,10 +122,16 @@
 
 | Solution | Date |
 | ------- | ----- |
-| Revise Binary Search | 7/21 |
+| Revise Binary Search | 7/22 |
 
 ```(Other Solutions, Reference: https://leetcode.com/problems/search-in-rotated-sorted-array/discuss/14425/Concise-O(log-N)-Binary-search-solution)```
 
 | Solution | Date |
 | ------- | ----- |
-| Find Smallest First | 7/21 |
+| Find Smallest First | 7/22 |
+
+```(Other Solutions, Reference: https://leetcode.com/problems/search-in-rotated-sorted-array/discuss/14435/Clever-idea-making-it-simple?page=2)```
+
+| Solution | Date |
+| ------- | ----- |
+| Infinity | 7/24 |
