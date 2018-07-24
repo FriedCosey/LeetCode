@@ -166,3 +166,9 @@
 | Solution | Date |
 | ------- | ----- |
 | Row Col Box | 7/25 |
+
+```(Other Solutions, Reference: https://leetcode.com/problems/valid-sudoku/discuss/15464/My-short-solution-by-C++.-O(n2))```
+
+| Solution | Date |
+| ------- | ----- |
+| Row Col Box (One Loop) |  |
