@@ -141,4 +141,4 @@
 | Solution | Date |
 | ------- | ----- |
 | MidHigh | 7/24 |
-| MidLow | |
+| MidLow | 7/24 |
