@@ -148,3 +148,15 @@
 | Solution | Date |
 | ------- | ----- |
 | Expand if duplicate | 7/24 |
+
+```(Other Solutions, Reference: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/discuss/)```
+
+| Solution | Date |
+| ------- | ----- |
+| Divide & Conquer |  |
+
+```(Other Solutions, Reference: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/discuss/14699/Clean-iterative-solution-with-two-binary-searches-(with-explanation))```
+
+| Solution | Date |
+| ------- | ----- |
+| Two Binary Search |  |
