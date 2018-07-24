@@ -160,3 +160,9 @@
 | Solution | Date |
 | ------- | ----- |
 | Two Binary Search |  |
+
+#### 36. Valid Sudoku
+
+| Solution | Date |
+| ------- | ----- |
+| Row Col Box | 7/25 |
