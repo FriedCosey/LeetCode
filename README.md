@@ -147,4 +147,4 @@
 
 | Solution | Date |
 | ------- | ----- |
-| Binary Search | 7/24 |
+| Expand if duplicate | 7/24 |
