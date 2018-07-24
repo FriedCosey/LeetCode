@@ -142,3 +142,9 @@
 | ------- | ----- |
 | MidHigh | 7/24 |
 | MidLow | 7/24 |
+
+#### 34. Find First and Last Position of Element in Sorted Array
+
+| Solution | Date |
+| ------- | ----- |
+| Binary Search | 7/24 |
