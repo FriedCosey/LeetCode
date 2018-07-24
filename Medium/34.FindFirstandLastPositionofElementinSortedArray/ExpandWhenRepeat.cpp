@@ -1,3 +1,5 @@
+// When Expanding Worst Case O(n)
+
 class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
