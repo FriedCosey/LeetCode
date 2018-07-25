@@ -196,3 +196,9 @@
 | Solution | Date |
 | ------- | ----- |
 | MultiplyByPair | |
+
+#### 50. Pow(x, n)
+
+| Solution | Date |
+| ------- | ----- |
+| divide by 2 | 7/26 |
