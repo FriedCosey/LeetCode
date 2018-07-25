@@ -184,3 +184,15 @@
 | Solution | Date |
 | ------- | ----- |
 | Multiply | 7/26 |
+
+```(Other Solutions, Reference: https://leetcode.com/problems/multiply-strings/discuss/17646/Brief-C++-solution-using-only-strings-and-without-reversal)```
+
+| Solution | Date |
+| ------- | ----- |
+| Multiply (Allocate First) | 7/26 |
+
+```(Other Solutions, Reference: https://leetcode.com/problems/multiply-strings/discuss/17605/Easiest-JAVA-Solution-with-Graph-Explanation)```
+
+| Solution | Date |
+| ------- | ----- |
+| MultiplyByPair | 7/26 |
