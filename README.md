@@ -178,3 +178,9 @@
 | Solution | Date |
 | ------- | ----- |
 | Dfs | 7/25 |
+
+#### 43. Multiply Strings
+
+| Solution | Date |
+| ------- | ----- |
+| Multiply | 7/26 |
