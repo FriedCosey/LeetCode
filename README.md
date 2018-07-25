@@ -195,4 +195,4 @@
 
 | Solution | Date |
 | ------- | ----- |
-| MultiplyByPair | 7/26 |
+| MultiplyByPair | |
