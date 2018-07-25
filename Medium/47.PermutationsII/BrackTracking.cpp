@@ -14,6 +14,7 @@ public:
             for(int k = i; k < j; k++){
                 if(find(used.begin(), used.end(), nums[k]) != used.end())
                     continue;
+                used.push_back(nums[k]);
                 swap(nums[k], nums[i]);
                 permute(i+1, j, nums, res);
                 swap(nums[k], nums[i]);
