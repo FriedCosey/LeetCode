@@ -189,7 +189,7 @@
 
 | Solution | Date |
 | ------- | ----- |
-| Multiply (Allocate First) | 7/26 |
+| Multiply - Preallocate | 7/26 |
 
 ```(Other Solutions, Reference: https://leetcode.com/problems/multiply-strings/discuss/17605/Easiest-JAVA-Solution-with-Graph-Explanation)```
 
