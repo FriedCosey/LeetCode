@@ -221,4 +221,4 @@
 
 | Solution | Date |
 | ------- | ----- |
-| O(n) | |
+| Scan until less than zero | 7/27 |
