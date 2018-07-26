@@ -1,3 +1,5 @@
+// -1 * n should fail (overflow) when n = INT_MIN, idk why pass
+
 class Solution {
 public:
     double myPow(double x, int n) {

@@ -201,4 +201,18 @@
 
 | Solution | Date |
 | ------- | ----- |
-| divide by 2 | 7/26 |
+| divide by 2 (Need Fix!) | 7/26 |
+
+```(Other Solutions, Reference: https://leetcode.com/problems/powx-n/discuss/19546/Short-and-easy-to-understand-solution)```
+
+| Solution | Date |
+| ------- | ----- |
+| multiply by 2 | 7/26 |
+
+```(Other Solutions, Reference: https://leetcode.com/problems/powx-n/discuss/19544/5-different-choices-when-talk-with-interviewers)```
+
+| Solution | Date |
+| ------- | ----- |
+| Nest MyPow |  |
+| Iterative | | 
+| Bit Op | |
