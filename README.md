@@ -228,3 +228,10 @@
 | Solution | Date |
 | ------- | ----- |
 | DP | 7/27 |
+
+#### 62. Unique Paths
+
+| Solution | Date |
+| ------- | ----- |
+| Dfs (TLE) | 7/27 |
+| Recursive | |
