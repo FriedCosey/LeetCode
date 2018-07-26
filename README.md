@@ -222,3 +222,9 @@
 | Solution | Date |
 | ------- | ----- |
 | Scan until less than zero | 7/27 |
+
+```(Other Solutions, Reference: https://leetcode.com/problems/maximum-subarray/discuss/20193/DP-solution-and-some-thoughts)```
+
+| Solution | Date |
+| ------- | ----- |
+| DP | 7/27 |
