@@ -216,3 +216,9 @@
 | Nest MyPow |  |
 | Iterative | | 
 | Bit Op | |
+
+#### 53. Maximum Subarray
+
+| Solution | Date |
+| ------- | ----- |
+| O(n) | |
