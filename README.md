@@ -236,3 +236,15 @@
 | Dfs (TLE) | 7/27 |
 | Recursive | |
 | DP | 7/27 |
+
+```(Other Solutions, Reference: https://leetcode.com/problems/unique-paths/discuss/22954/0ms-5-lines-DP-Solution-in-C++-with-Explanations)```
+
+| Solution | Date |
+| ------- | ----- |
+| Optimize DP |  |
+
+```(Other Solutions, Reference: https://leetcode.com/problems/unique-paths/discuss/22958/Math-solution-O(1)-space?page=2)```
+
+| Solution | Date |
+| ------- | ----- |
+| Combinatorial |  |
