@@ -241,7 +241,7 @@
 
 | Solution | Date |
 | ------- | ----- |
-| Optimize DP |  |
+| Optimize DP I (Space: O(min(m,n)) | 7/27 |
 
 ```(Other Solutions, Reference: https://leetcode.com/problems/unique-paths/discuss/22958/Math-solution-O(1)-space?page=2)```
 
