@@ -21,3 +21,7 @@ int gcd(int a, int b){
     return a
 }
 ```
+
+- a call b call a (Recursive Indirectly)
+
+- Partition into independent *subproblems*
