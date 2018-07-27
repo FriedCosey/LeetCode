@@ -24,4 +24,8 @@ int gcd(int a, int b){
 
 - a call b call a (Recursive Indirectly)
 
-- Partition into independent *subproblems*
+- Partition into **independent subproblems**
+
+- Stack: function call <-> Heap: Dynamic Memory Allocation
+    - Everytime doing recursion, use more stack space?
+        - Fix: **Tail Recursion**
