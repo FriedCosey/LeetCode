@@ -241,13 +241,13 @@
 
 | Solution | Date |
 | ------- | ----- |
-| Optimize DP I (Space: O(min(m,n)) | 7/27 |
+| Optimize DP (Space: O(min(m,n)) | 7/27 |
 
 ```(Other Solutions, Reference: https://leetcode.com/problems/unique-paths/discuss/22958/Math-solution-O(1)-space?page=2)```
 
 | Solution | Date |
 | ------- | ----- |
-| Combinatorial |  |
+| Combinatorial | 7/27 |
 
 #### 63. Unique Paths II
 
