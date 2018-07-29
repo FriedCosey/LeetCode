@@ -28,4 +28,22 @@ int gcd(int a, int b){
 
 - Stack: function call <-> Heap: Dynamic Memory Allocation
     - Everytime doing recursion, use more stack space?
-        - Fix: **Tail Recursion**
+        - **Tail Recursion**: ```https://stackoverflow.com/questions/33923/what-is-tail-recursion``` 
+```C++
+// Do -> Recursion
+main(){
+    printf("tail");
+    tail(x);
+    return 0;
+}
+```
+
+```C++
+// Head -> Recursion
+main(){
+    head(x);
+    printf("head");
+    return 0;
+}
+```
+
