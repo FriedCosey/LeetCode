@@ -1,7 +1,7 @@
 #### Recursion
 ```(Reference: https://www.youtube.com/watch?v=GZm6xMnNmgw)```
 
-- Does not always take more memory than iterative
+- Does not always take more memory than iterative (Some Compilers May Optimize -> Same Assembly Code)
 ```C++
 int gcd(int a, int b){
     if(!b)
