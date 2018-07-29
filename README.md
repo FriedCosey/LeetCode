@@ -255,8 +255,9 @@
 | ------- | ----- |
 | DP | 7/27 |
 
-```(Other Solutions, Check Discuss)```
+#### 64. Minimum Path Sum
 
 | Solution | Date |
 | ------- | ----- |
-| | |
+| Dfs(TLE) | 7/30 |
+| DP | 7/30 |
