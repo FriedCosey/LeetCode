@@ -111,6 +111,7 @@
 | Solution | Date |
 | ------- | ----- |
 | LeftShift | 7/20 |
+| RightShift | |
 
 ```(Other Solutions, Reference: https://leetcode.com/problems/divide-two-integers/discuss/13407/Detailed-Explained-8ms-C++-solution)```
 
@@ -263,3 +264,15 @@
 | DP | 7/30 |
 | DP (With One Array (#62) |  |
 | DP | 7/30 |
+
+#### 88. Merge Sorted Array
+
+| Solution | Date |
+| ------- | ----- |
+| Brute Force | 8/2 |
+
+```(Other Solutions, Reference: https://leetcode.com/problems/merge-sorted-array/discuss/29522/This-is-my-AC-code-may-help-you)```
+
+| Solution | Date |
+| ------- | ----- |
+| Check From Tail | 8/2 |
