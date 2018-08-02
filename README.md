@@ -276,3 +276,27 @@
 | Solution | Date |
 | ------- | ----- |
 | Check From Tail | 8/2 |
+
+#### 61. Rotate List
+
+| Solution | Date |
+| ------- | ----- |
+| Length, Fast, Slow | 8/2 |
+
+```(Other Solutions, Reference: https://leetcode.com/problems/rotate-list/discuss/22735/My-clean-C++-code-quite-standard-(find-tail-and-reconnect-the-list)```) 
+
+| Solution | Date |
+| ------- | ----- |
+| Length, Tail | |
+
+#### 54. Spiral Matrix
+
+| Solution | Date |
+| ------- | ----- |
+| Right Down Left Up Check | 8/2 |
+
+```(Other Solutions, Reference: https://leetcode.com/problems/spiral-matrix/discuss/20599/Super-Simple-and-Easy-to-Understand-Solution)```
+
+| Solution | Date |
+| ------- | ----- |
+| Right Down Left Up | |
