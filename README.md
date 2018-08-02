@@ -306,3 +306,9 @@
 | Solution | Date |
 | ------- | ----- |
 | Update Index | 8/3 |
+
+```(Other Solutions, Reference: https://leetcode.com/problems/jump-game/discuss/20900/Simplest-O(N)-solution-with-constant-space)``` 
+
+| Solution | Date |
+| ------- | ----- |
+| Backward | 8/3 |
