@@ -300,3 +300,9 @@
 | Solution | Date |
 | ------- | ----- |
 | Right Down Left Up | |
+
+#### 55. Jump Game
+
+| Solution | Date |
+| ------- | ----- |
+| Update Index | 8/3 |
