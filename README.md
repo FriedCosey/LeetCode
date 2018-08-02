@@ -325,3 +325,16 @@
 | Solution | Date |
 | ------- | ----- |
 | Brute Force | 8/3 |
+
+```(Other Solutions, Reference: https://leetcode.com/problems/simplify-path/discuss/25773/My-O(n)-AC-code-.-just-need-to-handle-two-special-cases.)```
+
+| Solution | Date |
+| ------- | ----- |
+| Brute Force (Simpilfy Special Case Comparison) | |
+
+```(Other Solutions, Reference: https://leetcode.com/problems/simplify-path/discuss/25680/C++-10-lines-solution)```
+
+| Solution | Date |
+| ------- | ----- |
+| GetLine | |
+
