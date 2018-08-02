@@ -312,3 +312,10 @@
 | Solution | Date |
 | ------- | ----- |
 | Backward | 8/3 |
+
+```(Other Solutions, Reference: https://leetcode.com/problems/jump-game/solution/)```
+
+| Solution | Date |
+| ------- | ----- |
+| DP ( top-down ) | |
+| DP ( bottom-up ) | |
