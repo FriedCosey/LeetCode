@@ -319,3 +319,9 @@
 | ------- | ----- |
 | DP ( top-down ) | |
 | DP ( bottom-up ) | |
+
+#### 71. Simplify Path
+
+| Solution | Date |
+| ------- | ----- |
+| Brute Force | 8/3 |
