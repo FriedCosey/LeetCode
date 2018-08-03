@@ -345,3 +345,5 @@
 | Solution | Date |
 | ------- | ----- |
 | Sort -> Compare | 8/3 |
+
+```(Other Solutions, Reference: https://leetcode.com/problems/merge-intervals/description/)```

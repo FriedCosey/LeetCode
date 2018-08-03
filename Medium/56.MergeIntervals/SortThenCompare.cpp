@@ -1,4 +1,5 @@
 // About Static Bool: https://stackoverflow.com/questions/26131112/why-stdsort-requires-static-compare-function
+// Call with class name - Static Function: Solution::compareFunc(a, b)
 /**
  * Definition for an interval.
  * struct Interval {
