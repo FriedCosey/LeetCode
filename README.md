@@ -338,3 +338,8 @@
 | ------- | ----- |
 | GetLine | |
 
+#### 56. Merge Intervals
+
+| Solution | Date |
+| ------- | ----- |
+| Sort -> Compare | 8/3 |
