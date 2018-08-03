@@ -347,3 +347,9 @@
 | Sort -> Compare | 8/3 |
 
 ```(Other Solutions, Reference: https://leetcode.com/problems/merge-intervals/description/)```
+
+#### 59. Spiral Matrix II
+
+| Solution | Date |
+| ------- | ----- |
+| Right Down Left Up Check | 8/2 |
