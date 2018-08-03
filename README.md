@@ -162,6 +162,8 @@
 | ------- | ----- |
 | Two Binary Search |  |
 
+```(Other Solutions, Reference: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/solution/)```
+
 #### 36. Valid Sudoku
 
 | Solution | Date |
