@@ -373,3 +373,12 @@
 | Solution | Date |
 | ------- | ----- |
 | Binary Search | 8/6 |
+
+#### 100. Same Tree
+```(Reference: https://leetcode.com/problems/same-tree/discuss/32687/Five-line-Java-solution-with-recursion)```
+
+| Solution | Date |
+| ------- | ----- |
+| Inorder | 8/6 |
+| Preorder | |
+| Postorder | |
