@@ -367,3 +367,9 @@
 | Solution | Date |
 | ------- | ----- |
 | Factorial | 8/6 |
+
+#### 69. Sqrt(x)
+
+| Solution | Date |
+| ------- | ----- |
+| Binary Search | 8/6 |
