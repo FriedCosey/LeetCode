@@ -1,3 +1,4 @@
+// https://stackoverflow.com/questions/35613574/when-to-use-in-binary-search-condition
 class Solution {
 public:
     int findMin(vector<int>& nums) {
