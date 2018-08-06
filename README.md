@@ -352,6 +352,18 @@
 
 | Solution | Date |
 | ------- | ----- |
-| Right Down Left Up Check | 8/2 |
+| Right Down Left Up Check | 8/3 |
 
 ```(Other Solutions, Reference: https://leetcode.com/problems/spiral-matrix-ii/discuss/22282/4-9-lines-Python-solutions)```
+
+#### 60. Permutation Sequence
+
+| Solution | Date |
+| ------- | ----- |
+| NextPermutation | 8/3 |
+
+```(Other Solutions, Reference: https://leetcode.com/problems/permutation-sequence/discuss/22507/%22Explain-like-I'm-five%22-Java-Solution-in-O(n))```
+
+| Solution | Date |
+| ------- | ----- |
+| Factorial | 8/6 |
