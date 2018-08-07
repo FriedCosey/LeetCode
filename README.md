@@ -382,3 +382,15 @@
 | Inorder | 8/6 |
 | Preorder | |
 | Postorder | |
+
+#### 70. Climbing Stairs
+
+| Solution | Date |
+| ------- | ----- |
+| Combination (n = 44 Fail) | |
+
+```(Other Solutions, Reference: https://leetcode.com/problems/climbing-stairs/discuss/25299/Basically-it's-a-fibonacci.)```
+ 
+| Solution | Date |
+| ------- | ----- |
+| Fibonacci | 8/8 |
