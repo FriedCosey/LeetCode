@@ -6,7 +6,7 @@
 | Longest Common Substring | 6/24 |
 | Brute Force | 6/24 |
 | Dynamic Programming |  |
-| Expand Around Center |  |
+| Expand Around Center | 8/12  |
 
 #### 92. Reverse Linked List II
 
