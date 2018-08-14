@@ -394,3 +394,9 @@
 | Solution | Date |
 | ------- | ----- |
 | Fibonacci | 8/8 |
+
+#### 125. Valid Palindrome
+
+| Solution | Date |
+| ------- | ----- |
+| Head & Tail | 8/14 |
