@@ -400,3 +400,9 @@
 | Solution | Date |
 | ------- | ----- |
 | Head & Tail | 8/14 |
+
+#### 516. Longest Palindromic Subsequence
+
+| Solution | Date |
+| ------- | ----- |
+| Dynamic Programming | 8/15 |
