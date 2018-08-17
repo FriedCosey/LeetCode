@@ -406,3 +406,15 @@
 | Solution | Date |
 | ------- | ----- |
 | Dynamic Programming | 8/15 |
+
+#### Lintcode-458.LastPositionofTarget
+
+| Solution | Date |
+| ------- | ----- |
+| Brute Force | 8/17 |
+
+```(Other Solutions, Reference: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/discuss/14699/Clean-iterative-solution-with-two-binary-searches-(with-explanation)?page=4)```
+
+| Solution | Date |
+| ------- | ----- |
+| logN | 8/17 |
