@@ -417,4 +417,10 @@
 
 | Solution | Date |
 | ------- | ----- |
-| logN | 8/17 |
+| Revised Binary Search | 8/17 |
+
+#### LintCode-585. Maximum Number in Mountain Sequence
+
+| Solution | Date |
+| ------- | ----- |
+| Revised Binary Search | 8/17 |
