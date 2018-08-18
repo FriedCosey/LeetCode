@@ -424,3 +424,12 @@
 | Solution | Date |
 | ------- | ----- |
 | Revised Binary Search | 8/17 |
+
+#### 658. Find K Closest Elements
+
+| Solution | Date |
+| ------- | ----- |
+| Binary Search Condition 1 | 8/18 |
+| Binary Search Condition 2 | 8/18 |
+| Binary Search Condition 3 | 8/18 |
+| Binary Search Condition 4 | 8/18 |
