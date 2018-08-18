@@ -433,3 +433,9 @@
 | Binary Search Condition 2 | 8/18 |
 | Binary Search Condition 3 | 8/18 |
 | Binary Search Condition 4 | 8/18 |
+
+#### LintCode-447. Search in a Big Sorted Array
+
+| Solution | Date |
+| ------- | ----- |
+| Revised Binary Search | 8/18 |
