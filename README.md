@@ -475,3 +475,16 @@
 | Solution | Date |
 | ------- | ----- |
 | Two Pointers | 8/19 |
+
+#### 283. Move Zeroes
+
+| Solution | Date |
+| ------- | ----- |
+| Swap | 8/19 |
+
+```(Other Solutions, Reference: https://leetcode.com/problems/move-zeroes/solution/)```
+
+| Solution | Date |
+| ------- | ----- |
+| Swap Optimize | 8/19 |
+| Copy | 8/19 | 
