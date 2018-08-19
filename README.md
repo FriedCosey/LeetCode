@@ -496,3 +496,10 @@
 | Target and 2 pointers | 8/19 |
 | Sort | 8/19 |
 | Hash | 8/19 |
+
+#### 75. Sort Colors
+
+| Solution | Date |
+| ------- | ----- |
+| Counting Sort In Place | 8/19 |
+| Counting Sort Out Place | 8/19 |

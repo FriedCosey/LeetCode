@@ -27,7 +27,8 @@ void swap(int &i, int &j){
 }
 
 int main(){
-    int nums[] = {10, -1, 2, 3, 4, 9, 77, 88, 20, 100};
+    //int nums[] = {10, -1, 2, 3, 4, 9, 77, 88, 20, 100};
+    int nums[] = {3, 2, 1, 4, 5};
     vector<int> v(nums, nums + sizeof(nums) / sizeof(int));
 	quickSort(v, 0, v.size() - 1);
     cout << v;
