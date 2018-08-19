@@ -439,3 +439,17 @@
 | Solution | Date |
 | ------- | ----- |
 | Revised Binary Search | 8/18 |
+
+#### 162. Find Peak Element
+
+| Solution | Date |
+| ------- | ----- |
+| Iter1 | 8/18 |
+
+```(Other Solutions, Reference: https://leetcode.com/problems/find-peak-element/solution/)```
+
+| Solution | Date |
+| ------- | ----- |
+| Iter2 | |
+| Sequential | |
+| Recursive | |
