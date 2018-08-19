@@ -459,3 +459,11 @@
 | Solution | Date |
 | ------- | ----- |
 | Revised Binary Search | 8/18 |
+
+#### 876. Middle of the Linked List
+
+```(Other Solutions, Reference: https://leetcode.com/problems/middle-of-the-linked-list/solution/)```
+
+| Solution | Date |
+| ------- | ----- |
+| Two Pointers | 8/19 |
