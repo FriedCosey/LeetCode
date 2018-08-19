@@ -453,3 +453,9 @@
 | Iter2 | |
 | Sequential | |
 | Recursive | |
+
+#### 278. First Bad Version
+
+| Solution | Date |
+| ------- | ----- |
+| Revised Binary Search | 8/18 |
