@@ -467,3 +467,11 @@
 | Solution | Date |
 | ------- | ----- |
 | Two Pointers | 8/19 |
+
+#### LintCode-228. Middle of Linked List 
+
+```(Other Solutions, Reference: https://leetcode.com/problems/middle-of-the-linked-list/solution/)```
+
+| Solution | Date |
+| ------- | ----- |
+| Two Pointers | 8/19 |
