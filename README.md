@@ -488,3 +488,11 @@
 | ------- | ----- |
 | Swap Optimize | 8/19 |
 | Copy | 8/19 | 
+
+#### LintCode-521. Remove Duplicate Numbers in Array
+
+| Solution | Date |
+| ------- | ----- |
+| Target and 2 pointers | 8/19 |
+| Sort | 8/19 |
+| Hash | 8/19 |
