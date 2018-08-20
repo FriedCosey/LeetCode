@@ -503,3 +503,11 @@
 | ------- | ----- |
 | Counting Sort In Place | 8/19 |
 | Counting Sort Out Place | 8/19 |
+| Two Pointers | 8/19 |
+
+#### LintCode-143. Sort Colors II
+
+| Solution | Date |
+| ------- | ----- |
+| Count In Place | 8/19 |
+
