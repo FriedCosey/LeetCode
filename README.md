@@ -504,6 +504,7 @@
 | Counting Sort In Place | 8/19 |
 | Counting Sort Out Place | 8/19 |
 | Two Pointers | 8/19 |
+| Two Pointers Optimize | 8/20 |
 
 #### LintCode-143. Sort Colors II
 
