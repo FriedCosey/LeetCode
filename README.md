@@ -510,4 +510,4 @@
 | Solution | Date |
 | ------- | ----- |
 | Count In Place | 8/19 |
-
+| Two Pointers | 8/20 |
