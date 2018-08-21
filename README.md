@@ -518,3 +518,9 @@
 | Solution | Date |
 | ------- | ----- |
 | Two Pointers | 8/20 |
+
+#### 607. Two Sum III - Data structure design
+
+| Solution | Date |
+| ------- | ----- |
+| Hash Table | 8/20 |
