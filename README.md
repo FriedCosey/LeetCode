@@ -529,4 +529,4 @@
 
 | Solution | Date |
 | ------- | ----- |
-| Quick Sort  | 8/21 |
+| Quick Sort Half | 8/21 |
