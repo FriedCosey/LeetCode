@@ -524,3 +524,9 @@
 | Solution | Date |
 | ------- | ----- |
 | Hash Table | 8/20 |
+
+#### 215. Kth Largest Element in an Array
+
+| Solution | Date |
+| ------- | ----- |
+| Quick Sort  | 8/21 |
