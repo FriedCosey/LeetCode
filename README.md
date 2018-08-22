@@ -530,3 +530,9 @@
 | Solution | Date |
 | ------- | ----- |
 | Quick Sort Half | 8/21 |
+
+#### 200. Number of Islands
+
+| Solution | Date |
+| ------- | ----- |
+| Bfs | 8/21 |
