@@ -536,3 +536,7 @@
 | Solution | Date |
 | ------- | ----- |
 | Bfs | 8/21 |
+| Bfs Optimize | 8/22 |
+| Dfs | |
+| Union Find | |
+
