@@ -545,3 +545,5 @@
 | Solution | Date |
 | ------- | ----- |
 | Bfs Vector | 8/24 |
+| Bfs Queue | 8/24 |
+| Dfs | |
