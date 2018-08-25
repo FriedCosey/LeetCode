@@ -562,3 +562,9 @@
 | ------- | ----- |
 | Bfs Queue | 8/24 |
 | Dfs | |
+
+#### LintCode-611. Knight Shortest Path
+
+| Solution | Date |
+| ------- | ----- |
+| Bfs Level | 8/25 |
