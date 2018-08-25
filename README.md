@@ -558,5 +558,7 @@
 
 ```(Other Solutions, Reference: https://leetcode.com/problems/course-schedule/discuss/58516/Easy-BFS-Topological-sort-Java)```
 
+| Solution | Date |
+| ------- | ----- |
 | Bfs Queue | 8/24 |
 | Dfs | |
