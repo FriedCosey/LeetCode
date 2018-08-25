@@ -547,3 +547,16 @@
 | Bfs Vector | 8/24 |
 | Bfs Queue | 8/24 |
 | Dfs | |
+
+#### 207. Course Schedule
+
+```(Reference: https://leetcode.com/problems/course-schedule/discuss/58509/18-22-lines-C++-BFSDFS-Solutions)```
+
+| Solution | Date |
+| ------- | ----- |
+| Bfs Vector | 8/24 |
+
+```(Other Solutions, Reference: https://leetcode.com/problems/course-schedule/discuss/58516/Easy-BFS-Topological-sort-Java)```
+
+| Bfs Queue | 8/24 |
+| Dfs | |
