@@ -602,3 +602,9 @@
 | Solution | Date |
 | ------- | ----- |
 | Topological Sort | 8/26 |
+
+#### LintCode-127. Topological Sorting
+
+| Solution | Date |
+| ------- | ----- |
+| Topological Sort | 8/26 |
