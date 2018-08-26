@@ -582,3 +582,17 @@
 | Solution | Date |
 | ------- | ----- |
 | Topological | 8/26 |
+
+#### 297. Serialize and Deserialize Binary Tree
+
+```(Reference: https://leetcode.com/problems/serialize-and-deserialize-binary-tree/discuss/74252/Clean-C++-solution)```
+
+| Solution | Date |
+| ------- | ----- |
+| Preorder | 8/26 |
+
+```(Other Solutions, Reference: https://leetcode.com/problems/serialize-and-deserialize-binary-tree/discuss/74264/Short-and-straight-forward-BFS-Java-code-with-a-queue)```
+
+| Solution | Date |
+| ------- | ----- |
+| Bfs |  |
