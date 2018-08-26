@@ -576,3 +576,9 @@
 | Solution | Date |
 | ------- | ----- |
 | Bfs Level | 8/25 |
+
+#### 444. Sequence Reconstruction
+
+| Solution | Date |
+| ------- | ----- |
+| Topological | 8/26 |
