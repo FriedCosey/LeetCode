@@ -623,3 +623,5 @@
 | Solution | Date |
 | ------- | ----- |
 | Iterative | 8/26 |
+| Iter Optimize | 8/26 |
+| Recuresive | 8/26 |
