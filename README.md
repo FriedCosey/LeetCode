@@ -630,4 +630,12 @@
 
 | Solution | Date |
 | ------- | ----- |
-| Dfs-Traverse | 8/28 |
+| Dfs Traverse | 8/28 |
+
+#### 114. Flatten Binary Tree to Linked List
+
+```(Reference: https://leetcode.com/problems/flatten-binary-tree-to-linked-list/discuss/36977/My-short-post-order-traversal-Java-solution-for-share)```
+
+| Solution | Date |
+| ------- | ----- |
+| PostOrder | 8/29 |
