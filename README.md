@@ -625,3 +625,9 @@
 | Iterative | 8/26 |
 | Iter Optimize | 8/26 |
 | Recuresive | 8/26 |
+
+#### LintCode-596. Minimum Subtree
+
+| Solution | Date |
+| ------- | ----- |
+| Dfs-Traverse | 8/28 |
