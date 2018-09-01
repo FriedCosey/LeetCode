@@ -639,3 +639,16 @@
 | Solution | Date |
 | ------- | ----- |
 | PostOrder | 8/29 |
+
+#### 110. Balanced Binary Tree
+
+| Solution | Date |
+| ------- | ----- |
+| Traverse | 9/1 |
+
+#### 104. Maximum Depth of Binary Tree
+
+| Solution | Date |
+| ------- | ----- |
+| Bfs | 9/1 |
+| Dfs | 9/1 |
