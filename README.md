@@ -652,3 +652,10 @@
 | ------- | ----- |
 | Bfs | 9/1 |
 | Dfs | 9/1 |
+
+#### 559. Maximum Depth of N-ary Tree
+
+| Solution | Date |
+| ------- | ----- |
+| Bfs | |
+| Dfs | 9/1 |
