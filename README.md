@@ -657,5 +657,11 @@
 
 | Solution | Date |
 | ------- | ----- |
-| Bfs | |
 | Dfs | 9/1 |
+| Bfs | |
+
+#### 230. Kth Smallest Element in a BST
+
+| Solution | Date |
+| ------- | ----- |
+| Count Left Elements | 9/1 |
