@@ -665,3 +665,10 @@
 | Solution | Date |
 | ------- | ----- |
 | Count Left Elements | 9/1 |
+
+```(Other Solutions, Reference: https://leetcode.com/problems/kth-smallest-element-in-a-bst/discuss/63660/3-ways-implemented-in-JAVA-(Python):-Binary-Search-in-order-iterative-and-recursive)```
+
+
+| Solution | Date |
+| ------- | ----- |
+| Dfs Inorder | |
