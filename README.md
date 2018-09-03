@@ -690,3 +690,9 @@
 | Solution | Date |
 | ------- | ----- |
 | Iterative | 9/3 |
+
+#### 599. Minimum Index Sum of Two Lists
+
+| Solution | Date |
+| ------- | ----- |
+| Hash map | 9/3 |
