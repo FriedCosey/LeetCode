@@ -671,4 +671,17 @@
 
 | Solution | Date |
 | ------- | ----- |
-| Dfs Inorder | |
+| Dfs Inorder | 9/1 |
+
+#### 236. Lowest Common Ancestor of a Binary Tree
+
+| Solution | Date |
+| ------- | ----- |
+| Check Left Right | 9/1 |
+
+#### 94. Binary Tree Inorder Traversal
+
+| Solution | Date |
+| ------- | ----- |
+| Recursive | 9/3 | 
+| Iterative | |
