@@ -710,3 +710,11 @@
 | Solution | Date |
 | ------- | ----- |
 | Using Math | |
+
+#### 98. Validate Binary Search Tree
+
+```(Reference: https://leetcode.com/problems/validate-binary-search-tree/discuss/32112/Learn-one-iterative-inorder-traversal-apply-it-to-multiple-tree-questions-(Java-Solution)?page=2)```
+
+| Solution | Date |
+| ------- | ----- |
+| Iter | 9/3 |
