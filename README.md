@@ -696,3 +696,17 @@
 | Solution | Date |
 | ------- | ----- |
 | Hash map | 9/3 |
+
+#### 564. Find the Closest Palindrome
+
+```(Reference: https://leetcode.com/problems/find-the-closest-palindrome/discuss/102396/C++-short-solution-only-need-to-compare-5-numbers)```
+
+| Solution | Date |
+| ------- | ----- |
+| Find Candidates | 9/3 |
+
+```(Other Solutions, Reference: https://leetcode.com/problems/find-the-closest-palindrome/solution/)```
+
+| Solution | Date |
+| ------- | ----- |
+| Using Math | |
