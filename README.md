@@ -726,3 +726,9 @@
 | Solution | Date |
 | ------- | ----- |
 | Two Stack | 9/4 |
+
+#### 131. Palindrome Partitioning
+
+| Solution | Date |
+| ------- | ----- |
+| Backtracking | 9/4 |

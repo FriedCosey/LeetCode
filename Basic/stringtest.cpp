@@ -13,6 +13,7 @@ int main(){
     cout << ss.str() << endl; 
     string a = "asdf";
     string b = "fffff";
+    cout << a.substr(2) << endl;
 
     cout << a + b << endl;
 
