@@ -738,3 +738,22 @@
 | Solution | Date |
 | ------- | ----- |
 | Backtracking | 9/4 |
+
+#### 78. Subsets
+
+| Solution | Date |
+| ------- | ----- |
+| Backtracking | 9/4 |
+
+#### 90. Subsets II
+
+| Solution | Date |
+| ------- | ----- |
+| Backtracking | 9/4 |
+| Iterative | |
+
+#### 140. Word Break II
+
+| Solution | Date |
+| ------- | ----- |
+| Backtracking (TLE) | 9/4 |
