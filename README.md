@@ -757,3 +757,10 @@
 | Solution | Date |
 | ------- | ----- |
 | Backtracking (TLE) | 9/4 |
+
+#### 443. String Compression
+
+| Solution | Date |
+| ------- | ----- |
+| Map | 9/7 |
+| Two Pointers | |
