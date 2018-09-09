@@ -768,3 +768,19 @@
 #### 139. Word Break
 
 ```(Todo: https://leetcode.com/problems/word-break/solution/)```
+
+#### 140. Word Break II
+
+```(Todo: https://leetcode.com/problems/word-break-ii/solution/)```
+
+#### 81. Search in Rotated Sorted Array II
+
+| Solution | Date |
+| ------- | ----- |
+| Find Pivot | 9/9 |
+
+```(Other Solutions, Reference: https://leetcode.com/problems/search-in-rotated-sorted-array-ii/discuss/28218/My-8ms-C++-solution-(o(logn)-on-average-o(n)-worst-case))```
+
+| Solution | Date |
+| ------- | ----- |
+| One loop | |
