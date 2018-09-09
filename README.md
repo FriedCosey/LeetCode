@@ -794,3 +794,15 @@
 | Solution | Date |
 | ------- | ----- |
 | Dp | |
+
+#### 51. N-Queens
+
+| Solution | Date |
+| ------- | ----- |
+| Dfs | 9/9  |
+
+```(Other Solutions, Reference: https://leetcode.com/problems/n-queens/discuss/19808/Accepted-4ms-c++-solution-use-backtracking-and-bitmask-easy-understand.)```
+
+| Solution | Date |
+| ------- | ----- |
+| Bitmask | |
