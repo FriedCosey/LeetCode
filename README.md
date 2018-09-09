@@ -806,3 +806,13 @@
 | Solution | Date |
 | ------- | ----- |
 | Bitmask | |
+
+#### 52. N-Queens II
+
+```(Other Solutions, Reference: https://leetcode.com/problems/n-queens-ii/discuss/20058/Accepted-Java-Solution?page=1)```
+
+| Solution | Date |
+| ------- | ----- |
+| No place grid |  |
+
+
