@@ -815,4 +815,14 @@
 | ------- | ----- |
 | No place grid |  |
 
+#### 79. Word Search
 
+| Solution | Date |
+| ------- | ----- |
+| Dfs | 9/9  |
+
+#### 290. Word Pattern
+
+| Solution | Date |
+| ------- | ----- |
+| Two Map | 9/10  |
