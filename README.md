@@ -826,3 +826,9 @@
 | Solution | Date |
 | ------- | ----- |
 | Two Map | 9/10  |
+
+#### 80. Remove Duplicates from Sorted Array II
+
+| Solution | Date |
+| ------- | ----- |
+| Two Pointers | 9/11  |
