@@ -837,12 +837,18 @@
 
 | Solution | Date |
 | ------- | ----- |
-| dp | 9/11  |
+| Dp | 9/11  |
 
 #### 103. Binary Tree Zigzag Level Order Traversal
 
 | Solution | Date |
 | ------- | ----- |
-| bfs | 9/11  |
-| recursive | |
+| Bfs | 9/11  |
+| Recursive | |
 
+#### 150. Evaluate Reverse Polish Notation
+
+| Solution | Date |
+| ------- | ----- |
+| Stack | 9/12  |
+| Recursive | |
