@@ -832,3 +832,17 @@
 | Solution | Date |
 | ------- | ----- |
 | Two Pointers | 9/11  |
+
+#### 91. Decode Ways
+
+| Solution | Date |
+| ------- | ----- |
+| dp | 9/11  |
+
+#### 103. Binary Tree Zigzag Level Order Traversal
+
+| Solution | Date |
+| ------- | ----- |
+| bfs | 9/11  |
+| recursive | |
+
