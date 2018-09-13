@@ -852,3 +852,9 @@
 | ------- | ----- |
 | Stack | 9/12  |
 | Recursive | |
+
+#### 647. Palindromic Substrings
+
+| Solution | Date |
+| ------- | ----- |
+| DP | 9/13  |
