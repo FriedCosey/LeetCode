@@ -863,4 +863,5 @@
 
 | Solution | Date |
 | ------- | ----- |
-| Bin search | 9/16  |
+| Bin search | 9/16 |
+| One Sorted | 9/16 |
