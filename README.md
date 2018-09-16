@@ -866,3 +866,9 @@
 | Bin search | 9/16 |
 | One Sorted | 9/16 |
 | Row then Col | 9/16 |
+
+#### LintCode-38. Search a 2D Matrix II
+
+| Solution | Date |
+| ------- | ----- |
+| Row then Col | 9/16 |
