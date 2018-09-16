@@ -865,3 +865,4 @@
 | ------- | ----- |
 | Bin search | 9/16 |
 | One Sorted | 9/16 |
+| Row then Col | 9/16 |
