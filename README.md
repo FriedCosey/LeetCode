@@ -858,3 +858,9 @@
 | Solution | Date |
 | ------- | ----- |
 | DP | 9/13  |
+
+#### 74. Search a 2D Matrix
+
+| Solution | Date |
+| ------- | ----- |
+| Bin search | 9/16  |
