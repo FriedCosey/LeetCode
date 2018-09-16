@@ -873,7 +873,13 @@
 | ------- | ----- |
 | Row then Col | 9/16 |
 
-#### LintCode-609.TwoSum-Lessthanorequaltotarget/
+#### LintCode-609.TwoSum - Less than or equal to target
+
+| Solution | Date |
+| ------- | ----- |
+| Two Pointers | 9/16 |
+
+#### LintCode-587. Two Sum - Unique pairs
 
 | Solution | Date |
 | ------- | ----- |
