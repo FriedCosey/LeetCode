@@ -884,3 +884,9 @@
 | Solution | Date |
 | ------- | ----- |
 | Two Pointers | 9/16 |
+
+#### 364. Nested List Weight Sum II
+
+| Solution | Date |
+| ------- | ----- |
+| Bfs | 9/21 |
