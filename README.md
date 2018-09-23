@@ -896,3 +896,9 @@
 | Solution | Date |
 | ------- | ----- |
 | Dfs | 9/22 |
+
+#### 367. Valid Perfect Square
+
+| Solution | Date |
+| ------- | ----- |
+| Bin search | 9/23 |
