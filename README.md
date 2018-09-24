@@ -909,3 +909,10 @@
 | ------- | ----- |
 | Recursive | 9/24 |
 | Iter |  |
+
+#### 617. Merge Two Binary Trees
+
+| Solution | Date |
+| ------- | ----- |
+| Recursive | 9/24 |
+| Iter |  |
