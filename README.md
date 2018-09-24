@@ -902,3 +902,10 @@
 | Solution | Date |
 | ------- | ----- |
 | Bin search | 9/23 |
+
+#### 226. Invert Binary Tree
+
+| Solution | Date |
+| ------- | ----- |
+| Recursive | 9/24 |
+| Iter |  |
