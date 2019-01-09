@@ -943,13 +943,19 @@
 | ------- | ----- |
 |  | 1/9 |
 
-### 760. Find Anagram Mappings
+### 760. Find Anagram Mappings (Go)
 
 | Solution | Date |
 | ------- | ----- |
 |  | 1/9 |
 
-### 832. Flipping an Image
+### 832. Flipping an Image (Go)
+
+| Solution | Date |
+| ------- | ----- |
+|  | 1/9 |
+
+### 657. Robot Return to Origin (Go)
 
 | Solution | Date |
 | ------- | ----- |
