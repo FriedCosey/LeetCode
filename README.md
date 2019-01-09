@@ -936,3 +936,9 @@
 | Solution | Date |
 | ------- | ----- |
 |  | 1/9 |
+
+### 771. Jewels and Stones (Go)
+
+| Solution | Date |
+| ------- | ----- |
+|  | 1/9 |
