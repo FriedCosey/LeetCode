@@ -916,3 +916,23 @@
 | ------- | ----- |
 | Recursive | 9/24 |
 | Iter |  |
+
+#### 698. Partition to K Equal Sum Subsets
+
+| Solution | Date |
+| ------- | ----- |
+| Dfs | 9/29 |
+| DP |  |
+
+#### 199. Binary Tree Right Side View
+
+| Solution | Date |
+| ------- | ----- |
+| Bfs | 10/13 |
+| Dfs | 10/13 |
+
+### 929. Unique Email Addresses (Go)
+
+| Solution | Date |
+| ------- | ----- |
+|  | 1/9 |
