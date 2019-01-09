@@ -942,3 +942,15 @@
 | Solution | Date |
 | ------- | ----- |
 |  | 1/9 |
+
+### 760. Find Anagram Mappings
+
+| Solution | Date |
+| ------- | ----- |
+|  | 1/9 |
+
+### 832. Flipping an Image
+
+| Solution | Date |
+| ------- | ----- |
+|  | 1/9 |
